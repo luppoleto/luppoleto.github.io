@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beers on Luppoleto Brewing Company</title>
-    <link>https://luppoleto.github.io/beer/</link>
+    <link>http://www.luppoleto.com/beer/</link>
     <description>Recent content in Beers on Luppoleto Brewing Company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jul 2016 00:24:27 -0400</lastBuildDate>
-    <atom:link href="https://luppoleto.github.io/beer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.luppoleto.com/beer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stouty McStoutface</title>
-      <link>https://luppoleto.github.io/beer/stouty-mcstoutface/</link>
+      <link>http://www.luppoleto.com/beer/stouty-mcstoutface/</link>
       <pubDate>Wed, 20 Jul 2016 00:24:27 -0400</pubDate>
       
-      <guid>https://luppoleto.github.io/beer/stouty-mcstoutface/</guid>
+      <guid>http://www.luppoleto.com/beer/stouty-mcstoutface/</guid>
       <description>&lt;p&gt;Ahh the beloved research vessel whose name rose so clearly to the top like the creamy
 foam atop this beer.Is this a shameless attempt to profit of a popular meme? Maybe.
 But who could stay mad at that face?&lt;/p&gt;
