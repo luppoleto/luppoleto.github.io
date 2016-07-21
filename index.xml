@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luppoleto Brewing Company</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://luppoleto.github.io/</link>
     <description>Recent content on Luppoleto Brewing Company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jul 2016 00:24:27 -0400</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luppoleto.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Luppoleto Brewing Company</title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>https://luppoleto.github.io/about/</link>
       <pubDate>Wed, 20 Jul 2016 00:24:27 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <guid>https://luppoleto.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;our-team&#34;&gt;Our Team&lt;/h2&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Hours &amp; Directions</title>
-      <link>http://replace-this-with-your-hugo-site.com/hours-directions/</link>
+      <link>https://luppoleto.github.io/hours-directions/</link>
       <pubDate>Wed, 20 Jul 2016 00:24:27 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/hours-directions/</guid>
+      <guid>https://luppoleto.github.io/hours-directions/</guid>
       <description>
 
 &lt;h2 id=&#34;taproom-hours&#34;&gt;Taproom Hours&lt;/h2&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Just What We Need...Another Brewery</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/another-brewery/</link>
+      <link>https://luppoleto.github.io/post/another-brewery/</link>
       <pubDate>Wed, 20 Jul 2016 00:24:27 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/another-brewery/</guid>
+      <guid>https://luppoleto.github.io/post/another-brewery/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;‎Do not seek to follow in the footsteps of others, instead, seek what they sought.&amp;rdquo; - Matsuo Basho&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -97,10 +97,10 @@
     
     <item>
       <title>Stouty McStoutface</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/stouty-mcstoutface/</link>
+      <link>https://luppoleto.github.io/beer/stouty-mcstoutface/</link>
       <pubDate>Wed, 20 Jul 2016 00:24:27 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/stouty-mcstoutface/</guid>
+      <guid>https://luppoleto.github.io/beer/stouty-mcstoutface/</guid>
       <description>&lt;p&gt;Ahh the beloved research vessel whose name rose so clearly to the top like the creamy
 foam atop this beer.Is this a shameless attempt to profit of a popular meme? Maybe.
 But who could stay mad at that face?&lt;/p&gt;
