@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
@@ -93,3 +94,44 @@ footer {
  #mc_embed_signup{ text-align:center;clear:left; color:rgba(189,189,189,.9); } 
  div#mc_embed_signup .button{   }
  div#mc_embed_signup .button:hover{  background-color:#40B7AE; }
+=======
+/*
+ * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    height: 400px;
+    background: url('http://placehold.it/1920x400') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.post img { 
+    margin: 0 20px 20px 0;
+}
+>>>>>>> 459f28920f6c3f72eb943d2ccdd29ec068886e9e

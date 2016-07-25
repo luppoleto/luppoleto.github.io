@@ -17,12 +17,20 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://www.luppoleto.com/posts/another-brewery/</loc>
+=======
+    <loc>http://www.luppoleto.com/post/another-brewery/</loc>
+>>>>>>> 459f28920f6c3f72eb943d2ccdd29ec068886e9e
     <lastmod>2016-07-20T00:24:27-04:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://www.luppoleto.com/beers/stouty-mcstoutface/</loc>
+=======
+    <loc>http://www.luppoleto.com/beer/stouty-mcstoutface/</loc>
+>>>>>>> 459f28920f6c3f72eb943d2ccdd29ec068886e9e
     <lastmod>2016-07-20T00:24:27-04:00</lastmod>
   </url>
   
