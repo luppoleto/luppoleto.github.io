@@ -86,6 +86,12 @@ footer {
     background-color: #2d2b27;
     color:rgba(189,189,189,.9);   
     }
+.social a { 
+    color:#F9BB7D;
+    }
+.social a:hover { 
+    color: #40B7AE;
+    }
 
 /* Mail Chimp */
  #mc_embed_signup{ text-align:center;clear:left; color:rgba(189,189,189,.9); }  
