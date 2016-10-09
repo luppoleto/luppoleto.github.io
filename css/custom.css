@@ -79,6 +79,9 @@ footer {
 .stripe p, .stripe h2, .stripe h3, .stripe a { 
     color:#fff;
     }
+.stripe a {
+    text-decoration:underline;
+}
 .stripe img {
     border:10px solid #fff;
     }
