@@ -75,9 +75,9 @@ footer {
     margin: 50px 0;    
     color: #CCC;
     }
-.post img { 
-    margin: 0 20px 20px 20px;
-    }
+.post img, .post h1 { 
+    text-align: center;    
+    }    
 .stripe, .stripe-alt { 
     padding: 30px 0 30px 0;
     margin: 30px 0 30px 0;
